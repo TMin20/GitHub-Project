@@ -1,7 +1,7 @@
 # GitHub-Project
 
-Minarik.zip
+**Minarik.zip**- Drawing Basic Shapes in P5.js with grayscale colors
 
-Minarik1.zip
+**Minarik-1.zip**- Drawing Basic Shapes in P5.js with colors
 
-Minarik2.zip
+**Minarik-2.zip**- variables, frameRate, measuring mouse position, and math  
